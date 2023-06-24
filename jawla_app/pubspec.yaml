@@ -1,0 +1,34 @@
+name: jawla_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.2 <4.0.0"
+
+dependencies:
+  blurrycontainer: ^1.0.2
+  count_stepper: ^0.0.4
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.4.0
+  get_it: ^7.6.0
+  get_storage: ^2.1.1
+  horizontal_center_date_picker: ^2.1.1
+  http: ^1.0.0
+  image_picker: ^0.8.9
+  intl: ^0.17.0
+  like_button: ^2.0.5
+  pin_code_fields: ^7.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/login_signup/
