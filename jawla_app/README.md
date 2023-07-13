@@ -1,8 +1,9 @@
 # Jawla App
 
-Team Members:
-Hadeel Alharbi
-Abdulmohsen Alfreh
-Haifa Alsharif
-Mohammed Alkhaldi
+<h3>Team Members:</h3>
+
+Hadeel Alharbi <br>
+Abdulmohsen Alfreh <br>
+Haifa Alsharif <br>
+Mohammed Alkhaldi <br>
 Arwa fawzi
